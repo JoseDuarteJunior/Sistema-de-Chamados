@@ -19,4 +19,4 @@ Sistema de abertura e atendimento de chamados em php responsivo.
 
 # Requisitos:
 -SQL
--PHP 5
+-PHP5
